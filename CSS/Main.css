@@ -1,0 +1,13 @@
+body{
+background-color: lightgreen;
+border: 2px solid black;
+}
+div{
+	margin: 6px;
+	padding: 12px;
+	border: 2px solid black;
+}
+span{
+	color:blue
+	;
+}
